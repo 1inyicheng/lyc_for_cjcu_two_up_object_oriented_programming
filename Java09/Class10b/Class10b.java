@@ -23,7 +23,7 @@ class CRational //分數類別
         setD(den);
     }
 }
-public class Class10b
+public class hw9_10
 {
     public static void show(CRational obje)
     {

@@ -1,5 +1,5 @@
 // hw9_18,
-public class Class18
+public class hw9_18
 {
     public static void main(String args[])
     {
